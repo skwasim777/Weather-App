@@ -11,7 +11,7 @@ Weather App UI is a simple and responsive web application designed to display we
 - HTML, CSS, JavaScript
 - Font Awesome for icons
 - Google Fonts (Poppins) for typography
-
+  
 ## Usage
 1. Clone this repository to your local machine.
 2. Open the index.html file in your web browser.
