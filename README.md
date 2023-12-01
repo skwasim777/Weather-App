@@ -5,8 +5,8 @@ Weather App UI is a simple and responsive web application designed to display we
 
 ## Features
 - Dark Mode: Switch between light and dark themes for comfortable day and night use.
-- Weather Data: Get up-to-date weather information, including temperature and weather conditions.
-
+- Weather Data: Get up-to-date weather information, including temperature and weather conditions
+  
 ## Technologies Used
 - HTML, CSS, JavaScript
 - Font Awesome for icons
