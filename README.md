@@ -16,7 +16,7 @@ Weather App UI is a simple and responsive web application designed to display we
 1. Clone this repository to your local machine.
 2. Open the index.html file in your web browser.
 3. Explore the weather information and toggle between light and dark themes.
-
+   
 ## Credits
 This project was created by [Wasim Shaikh]
 
